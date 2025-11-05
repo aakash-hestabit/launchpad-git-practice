@@ -2,4 +2,14 @@ some random data
 
 some more random data 
 
-the bug is fixed
+thw bug is fixed
+
+some more random data 
+
+again some random data
+
+it is great to be a part of Hestabit
+
+there are a lots of learnings here
+
+i'll be doing nine commits 
